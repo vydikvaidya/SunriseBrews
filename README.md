@@ -8,8 +8,11 @@ Responsive Design: Built with responsive design principles to ensure optimal vie
 Custom Icons: Integrated Font Awesome icons for visual enhancements and intuitive navigation.
 Description: Added descriptions for each coffee blend and drink to provide additional information to users.
 Technologies Used:
-HTML5
-CSS3
-JavaScript (Vanilla JS)
-Swiper.js
-Font Awesome
+-HTML5
+-CSS3
+-JavaScript (Vanilla JS)
+-Swiper.js
+-Font Awesome
+
+
+Website :  https://vydikvaidya.github.io/SunriseBrews/
